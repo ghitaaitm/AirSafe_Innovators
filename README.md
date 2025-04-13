@@ -45,7 +45,7 @@ The application offers real-time air quality data, historical analysis, and sky 
   - `model_CNN_LSTM.py` 
   - `logo.png` (Application logo)
 
-**Note**: Model files are not included in this repository due to their size. Download them from [this Google Drive link](https://drive.google.com/drive/folders/abc123) and place them in the project directory.
+**Note**: Model files are not included in this repository due to their size. Download them from [this Google Drive link](https://drive.google.com/drive/folders/1m6gdHy4a9Q3DfhjQuUSya-1NPWLqEQuh?usp=sharing) and place them in the project directory.
  Installation
 Clone the Repository:
    ```bash
