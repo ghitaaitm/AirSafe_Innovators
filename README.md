@@ -1,5 +1,7 @@
 # AirSafe Innovators
 
+# Home page 
+![Home Page](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/Home_Page.PNG?raw=true)
 AirSafe Innovators is a Streamlit web application designed to support **Sustainable Development Goal (SDG) 11 – Target 11.6** by providing tools to monitor and predict air quality. 
 The application offers real-time air quality data, historical analysis, and sky image-based AQI estimation, empowering users to make informed decisions for sustainable cities.
 
