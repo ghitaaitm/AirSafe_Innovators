@@ -9,6 +9,10 @@ The application offers real-time air quality data, historical analysis, and sky 
   - Fetch current air quality data (PM2.5, PM10, NO2, SO2, CO, O3, AQI) for any city using the OpenWeather API.
   - Predict future AQI using a CNN-LSTM model.
   - Display alerts for high AQI levels.
+ 
+  - ###  Result:
+
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/screen.PNG?raw=true)
 
 - Historical Analysis
   - Upload CSV files to analyze historical air quality data.
