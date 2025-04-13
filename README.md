@@ -51,3 +51,11 @@ Clone the Repository:
    ```bash
    git clone https://github.com/your-username/AirSafe_Innovators.git
    cd AirSafe_Innovators
+
+
+## Image Analysis Result
+
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/Image_Analyses_Result.PNG?raw=true)
+
+**Image Analysis Result:**
+<span style="color: black; font-size: 20px;">The text here will be larger and black.</span>
