@@ -8,14 +8,6 @@ env/
 venv/
 *.env
 
-# Model files (large binary files)
-cnn_lstm_model.h5
-scaler_x.pkl
-scaler_y.pkl
-air_quality_model.keras
-
-# Data files
-ClasseurData.xlsx
 
 # Other
 .DS_Store
