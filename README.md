@@ -9,12 +9,20 @@ The application offers real-time air quality data, historical analysis, and sky 
   - Fetch current air quality data (PM2.5, PM10, NO2, SO2, CO, O3, AQI) for any city using the OpenWeather API.
   - Predict future AQI using a CNN-LSTM model.
   - Display alerts for high AQI levels.
+ 
+  - ###  Result:
+
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/screen.PNG?raw=true)
 
 - Historical Analysis
   - Upload CSV files to analyze historical air quality data.
   - Predict AQI trends using the CNN-LSTM model.
   - Visualize real vs. predicted AQI with interactive Plotly graphs.
   - Alerts for data issues, predictions, and significant AQI trends.
+  - 
+   - ### Historical Analysis Result:
+
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/HiSTORICAL_Analysis.PNG?raw=true)
 
 - Sky Image Analysis:
   - Upload sky images (JPG, PNG, JPEG) to estimate AQI using a CNN model.
@@ -45,6 +53,11 @@ The application offers real-time air quality data, historical analysis, and sky 
   - `model_CNN_LSTM.py` 
   - `logo.png` (Application logo)
 
+
+
+
+
+
 **Note**: Model files are not included in this repository due to their size. Download them from [this Google Drive link](https://drive.google.com/drive/folders/1m6gdHy4a9Q3DfhjQuUSya-1NPWLqEQuh?usp=sharing) and place them in the project directory.
  Installation
 Clone the Repository:
@@ -57,6 +70,6 @@ Clone the Repository:
 
 ![Air Quality Result](https://raw.githubusercontent.com/ghitaaitm/AirSafe_Innovators/main/Image_Analyses_Result.PNG)
 
-**Image Analysis Result:**
+
 <span style="color: black; font-size: 20px;">.</span>
 
