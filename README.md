@@ -19,6 +19,10 @@ The application offers real-time air quality data, historical analysis, and sky 
   - Predict AQI trends using the CNN-LSTM model.
   - Visualize real vs. predicted AQI with interactive Plotly graphs.
   - Alerts for data issues, predictions, and significant AQI trends.
+  - 
+   - ### Historical Analysis Result:
+
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/HiSTORICAL_Analysis.PNG?raw=true)
 
 - Sky Image Analysis:
   - Upload sky images (JPG, PNG, JPEG) to estimate AQI using a CNN model.
@@ -50,21 +54,8 @@ The application offers real-time air quality data, historical analysis, and sky 
   - `logo.png` (Application logo)
 
 
-    ### Breakdown of Sections Added:
 
-1. **Real-Time Air Quality**:
-   - This section explains that users can fetch current air quality data from OpenWeather and also predicts future AQI using a CNN-LSTM model.
-   
-2. **Historical Analysis**:
-   - Users can upload CSV files containing historical air quality data.
-   - The application provides data analysis and visualization (using Plotly graphs) to show real vs. predicted AQI trends.
-  
-   - ### Historical Analysis Result:
 
-![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/HiSTORICAL_Analysis.PNG?raw=true)
-
-3. **Usage Section**:
-   - This section helps users understand how to use the features by navigating to specific tabs in the app and interacting with them (e.g., entering a city name for real-time air quality or uploading a CSV file for historical analysis).
 
 
 **Note**: Model files are not included in this repository due to their size. Download them from [this Google Drive link](https://drive.google.com/drive/folders/1m6gdHy4a9Q3DfhjQuUSya-1NPWLqEQuh?usp=sharing) and place them in the project directory.
