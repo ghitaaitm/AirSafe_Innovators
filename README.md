@@ -57,7 +57,7 @@ The application offers real-time air quality data, historical analysis, and sky 
   
    - ### Historical Analysis Result:
 
-![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/HISTORICAL_Analyses.PNG?raw=true)
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/HiSTORICAL_Analysis.PNG?raw=true)
 
 3. **Usage Section**:
    - This section helps users understand how to use the features by navigating to specific tabs in the app and interacting with them (e.g., entering a city name for real-time air quality or uploading a CSV file for historical analysis).
