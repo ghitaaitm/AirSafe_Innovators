@@ -53,9 +53,13 @@ Clone the Repository:
    cd AirSafe_Innovators
 
 
+
 ## Image Analysis Result
 
-![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/Image_Analyses_Result.PNG?raw=true)
+![Air Quality Result](https://raw.githubusercontent.com/ghitaaitm/AirSafe_Innovators/main/Image_Analyses_Result.PNG)
 
 **Image Analysis Result:**
 <span style="color: black; font-size: 20px;">The text here will be larger and black.</span>
+
+**Image Analysis Result:**
+<span style="color: black; font-size: 20px;">.</span>
