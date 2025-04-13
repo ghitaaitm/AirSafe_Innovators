@@ -55,9 +55,9 @@ The application offers real-time air quality data, historical analysis, and sky 
    - Users can upload CSV files containing historical air quality data.
    - The application provides data analysis and visualization (using Plotly graphs) to show real vs. predicted AQI trends.
   
-   - ### Image Analysis Result:
+   - ### Historical Analysis Result:
 
-![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/Historical_Analysis.PNG?raw=true)
+![Air Quality Result](https://github.com/ghitaaitm/AirSafe_Innovators/blob/main/HISTORICAL_Analysis.PNG?raw=true)
 
 3. **Usage Section**:
    - This section helps users understand how to use the features by navigating to specific tabs in the app and interacting with them (e.g., entering a city name for real-time air quality or uploading a CSV file for historical analysis).
@@ -75,6 +75,6 @@ Clone the Repository:
 
 ![Air Quality Result](https://raw.githubusercontent.com/ghitaaitm/AirSafe_Innovators/main/Image_Analyses_Result.PNG)
 
-**Image Analysis Result:**
+
 <span style="color: black; font-size: 20px;">.</span>
 
